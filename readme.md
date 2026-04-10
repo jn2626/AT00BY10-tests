@@ -1,17 +1,14 @@
-[![Coverage Status](https://coveralls.io/repos/github/jn2626/AT00BY10-tests/badge.svg?branch=main)](https://coveralls.io/github/jn2626/AT00BY10-tests?branch=main)
 # AT00BY10 Tests
+
+[![Coverage Status](https://coveralls.io/repos/github/jn2626/AT00BY10-tests/badge.svg?branch=main)](https://coveralls.io/github/jn2626/AT00BY10-tests?branch=main)
 
 This project contains JavaScript functions and unit tests using Vitest.
 
-## Run tests
+## Installation
 
-npm install  
-npm test  
+Clone the repository and install dependencies:
 
-## Functions
-
-- add
-- eq
-- defaultTo
-- castArray
-- endsWith
+```bash
+git clone https://github.com/jn2626/AT00BY10-tests.git
+cd AT00BY10-tests
+npm install
