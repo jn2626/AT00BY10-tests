@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/jn2626/AT00BY10-tests#readme",
   "devDependencies": {
+    "@vitest/coverage-v8": "^4.1.4",
     "vitest": "^4.1.4"
   }
 }
